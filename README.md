@@ -1,7 +1,7 @@
 # toolsaad
 
 
-git clone https://github.com/saadma3lomat/toolsaad/
-cd toolsaad
-chmod +x toolsaad
-sudo bash toolsaad.sh
+1 git clone https://github.com/saadma3lomat/toolsaad/
+2 cd toolsaad
+3 chmod +x toolsaad
+4 sudo bash toolsaad.sh
