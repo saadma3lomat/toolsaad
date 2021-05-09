@@ -7,7 +7,7 @@
 ### Install tools-saad :)
 1. `git clone https://github.com/saadma3lomat/toolsaad/`
 2. `cd toolsaad`
-3. `chmod +x toolsaad`
+3. `chmod +x toolsaad.sh`
 4. `sudo bash toolsaad.sh`
 
 
