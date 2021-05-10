@@ -1,5 +1,7 @@
 ![logo](https://github.com/saadma3lomat/toolsaad/blob/main/ero.png)
 # toolsaad
+# Watch the video on YouTube how to use : https://youtu.be/erYRmeO6cKw
+
 #youtube : https://www.youtube.com/channel/UCYs_yQNKlr9P3-Gkx7v9voA
 
 #Tiktok :  Saad_Linux
